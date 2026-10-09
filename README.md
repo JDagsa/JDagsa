@@ -6,12 +6,10 @@ I am a self-taught developer. All of my contributions are on personal and privat
 
 ### I was or am currently...
 
-* the Chief Executive Officer at NewMontem Corp. (15 August - 6 December 2021)
-* the Minister of Technology at the [Cupertino Alliance](https://cupertinoalliance.ca) (2 November 2021 - present)
-* the Chief Executive Officer at CNC Inc. (formerly Crane and Crown Ltd., 6 December 2021 - present)
+* the Minister of Technology at the [Cupertino Alliance](https://cupertinoalliance.ca) (2 November 2021–31 July 2022)
 
 ### Technologies
-Here's most of the technologies I am very or somewhat familiar with and have used before. I always want to learn about other technologies, so that I can work with anything and anyone.
+Here's most of the technologies I am very or somewhat familiar with and have used before. I am open to learning new programming languages, paradigms, and frameworks.
 
 <p align="left">
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/html5.svg" />
@@ -29,7 +27,7 @@ Here's most of the technologies I am very or somewhat familiar with and have use
 
 ### Projects I'm working on
 
-[Alacrity](https://github.com/JDagsa/alacrity) - Alacrity is a project by the Ministry of Technology to create a much more responsive and efficient Cupertino Alliance website.
+[Alacrity](https://github.com/JDagsa/alacrity) - Alacrity was a project by the Ministry of Technology to create a much more responsive and efficient Cupertino Alliance website.
 [CNC News](https://github.com/cnc-nh/news) - A news site built with Next.js, TailwindCSS and MDX, made for CNC Inc.
 
 ### Thank you!
